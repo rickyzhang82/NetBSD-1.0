@@ -1,0 +1,1 @@
+#define NSPEAKER 1
